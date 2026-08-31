@@ -1,6 +1,6 @@
 # Damp & Mould Risk Intelligence Platform
 
-Turning building sensor data into maintenance decisions — and testing retrofit
+Turning building sensor data into maintenance decisions and testing retrofit
 interventions before paying for them.
 
 **Live app:** https://aamna-damp-risk.streamlit.app/
@@ -33,7 +33,7 @@ that decision layer end to end.
 
 ## Honest framing
 
-The monitored building is a **passive house** — airtight, mechanically ventilated, and
+The monitored building is a **passive house**, airtight, mechanically ventilated, and
 very dry (~40% RH). It has almost no condensation risk. **That is a real finding, not a
 failed analysis:** damp is a problem of wet air meeting cold surfaces, and this building
 has neither.
@@ -44,7 +44,7 @@ degraded fabric and under-ventilation typical of the older housing stock that ac
 damp problems.
 
 Risk indices here are **physics-derived indicators**, not models trained on labelled mould
-inspections — no such labels exist in this dataset. Validating them against real damp and
+inspections, no such labels exist in this dataset. Validating them against real damp and
 mould inspection records is the single most important next step, and the Limitations page
 in the app sets out the rest.
 
@@ -90,5 +90,3 @@ be refreshed for any real reporting.
 
 Built by Aamna Arif
 
----
-Built by Aamna Arif.
